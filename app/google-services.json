@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828185897044",
+    "firebase_url": "https://lotustargram.firebaseio.com",
+    "project_id": "lotustargram",
+    "storage_bucket": "lotustargram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828185897044:android:9a4f014edad893b17da5c1",
+        "android_client_info": {
+          "package_name": "com.lotus.lotustargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828185897044-m12ed3ih0kkvg5f53mcib3r4br8u73b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lotus.lotustargram",
+            "certificate_hash": "fe0aa1168f09180591e6ffd009c36468208ab4eb"
+          }
+        },
+        {
+          "client_id": "828185897044-lhfdq9a7qpgvdj0qvbvbt81hero1ht40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFrzrGECjIE5jJpVW7mmcYrH4kl3n1Mto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828185897044-lhfdq9a7qpgvdj0qvbvbt81hero1ht40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

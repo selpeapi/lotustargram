@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    >
+<!--    프로필 이미지-->
+    <ImageView
+        android:id="@+id/commentviewitem_imageview_profile"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="7.5dp">
+    </ImageView>
+<!--    코맨트를 단 사람의 아이디-->
+    <TextView
+        android:id="@+id/commentviewitem_textview_profile"
+        android:text="UserID"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="7.5dp">
+    </TextView>
+<!--    코맨트의 내용-->
+    <TextView
+        android:id="@+id/commentviewitem_textview_comment"
+        android:text="comment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="7.5dp">
+    </TextView>
+</LinearLayout>
